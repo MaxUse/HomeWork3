@@ -1,0 +1,15 @@
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/HWSeminar3.csproj.AssemblyReference.cache
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/HWSeminar3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/HWSeminar3.AssemblyInfoInputs.cache
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/HWSeminar3.AssemblyInfo.cs
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/HWSeminar3.csproj.CoreCompileInputs.cache
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/bin/Debug/net6.0/HWSeminar3
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/bin/Debug/net6.0/HWSeminar3.deps.json
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/bin/Debug/net6.0/HWSeminar3.runtimeconfig.json
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/bin/Debug/net6.0/HWSeminar3.dll
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/bin/Debug/net6.0/HWSeminar3.pdb
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/HWSeminar3.dll
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/refint/HWSeminar3.dll
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/HWSeminar3.pdb
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/HWSeminar3.genruntimeconfig.cache
+/Users/MaxUse/Desktop/HomeWork/HWSeminar3/obj/Debug/net6.0/ref/HWSeminar3.dll
